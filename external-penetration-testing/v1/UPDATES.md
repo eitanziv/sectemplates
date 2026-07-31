@@ -1,6 +1,6 @@
 # External Penetration Testing Pack Updates
 7/31/2026 - V1.3 Release
- * Improved the grammar/wording in relation to compliance considerations. and addressed a typos.
+ * Improved the grammar/wording in relation to compliance considerations. and addressed typos.
 
 7/21/2026 - V1.2 Release
  * Updates to ensure IT is clearly included
